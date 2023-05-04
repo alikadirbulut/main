@@ -1,4 +1,4 @@
-<h1 align="center">Mustafa Enes Tepe</h1>
+<h1 align="center">Ali Kadir Bulut</h1>
 <div align="center">
  
 
@@ -9,10 +9,9 @@
 <p align="center">
 
  
- <a href="https://linkedin.com/in/mustafa-enes-tepe-7463901b8/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mustafatpe23@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
-  <a href="https://gitlab.com/MET-DEV"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-  <a href="https://medium.com/@tepe0789"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/ali-kadir-bulut-75757417a"/></a>
+  <a href="mailto:aligadir23@hotmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
+  <a href="https://gitlab.com/alikadirbulut"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </p>
 </div>
 <hr/>
